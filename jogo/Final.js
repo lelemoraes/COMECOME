@@ -1,0 +1,4 @@
+function mostraFinal(){
+    background(imgGameOver)
+ 
+}
